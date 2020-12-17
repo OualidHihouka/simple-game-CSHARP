@@ -1,0 +1,24 @@
+F:\ista\C#\exercice\7   7    7\bin\Debug\7   7    7.exe.config
+F:\ista\C#\exercice\7   7    7\bin\Debug\7   7    7.exe
+F:\ista\C#\exercice\7   7    7\bin\Debug\7   7    7.pdb
+F:\ista\C#\exercice\7   7    7\obj\Debug\7   7    7.csprojResolveAssemblyReference.cache
+F:\ista\C#\exercice\7   7    7\obj\Debug\_7___7____7.Form1.resources
+F:\ista\C#\exercice\7   7    7\obj\Debug\_7___7____7.Joeur1.resources
+F:\ista\C#\exercice\7   7    7\obj\Debug\_7___7____7.joeur2.resources
+F:\ista\C#\exercice\7   7    7\obj\Debug\_7___7____7.Properties.Resources.resources
+F:\ista\C#\exercice\7   7    7\obj\Debug\7   7    7.csproj.GenerateResource.Cache
+F:\ista\C#\exercice\7   7    7\obj\Debug\7   7    7.exe
+F:\ista\C#\exercice\7   7    7\obj\Debug\7   7    7.pdb
+F:\ista\C#\exercice\7   7    7\obj\Debug\_7___7____7.Winner.resources
+F:\ista\exercice\exercice\7   7    7\bin\Debug\7   7    7.exe.config
+F:\ista\exercice\exercice\7   7    7\obj\Debug\7   7    7.exe
+F:\ista\exercice\exercice\7   7    7\obj\Debug\7   7    7.pdb
+F:\ista\exercice\exercice\7   7    7\bin\Debug\7   7    7.exe
+F:\ista\exercice\exercice\7   7    7\bin\Debug\7   7    7.pdb
+F:\ista\exercice\exercice\7   7    7\obj\Debug\7   7    7.csprojResolveAssemblyReference.cache
+F:\ista\exercice\exercice\7   7    7\obj\Debug\_7___7____7.Form1.resources
+F:\ista\exercice\exercice\7   7    7\obj\Debug\_7___7____7.Joeur1.resources
+F:\ista\exercice\exercice\7   7    7\obj\Debug\_7___7____7.joeur2.resources
+F:\ista\exercice\exercice\7   7    7\obj\Debug\_7___7____7.Properties.Resources.resources
+F:\ista\exercice\exercice\7   7    7\obj\Debug\_7___7____7.Winner.resources
+F:\ista\exercice\exercice\7   7    7\obj\Debug\7   7    7.csproj.GenerateResource.Cache
